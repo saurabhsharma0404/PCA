@@ -1,4 +1,4 @@
-# PCA
+# PCA (Datacamp)
 Principal Component Analysis
 
 PCA helps in removing less relevant features of the dataset. First step in PCA is decorrelation and second step is reducing dimension or removing features.
